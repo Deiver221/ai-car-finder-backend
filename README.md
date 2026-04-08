@@ -65,7 +65,7 @@ Se encarga de procesar las búsquedas del usuario, interpretar filtros con IA y 
 
 ## 🔑Variables de entorno
 ```
-OPENAI_API_KEY=tu_api_key
+GROQ_API_KEY=tu_api_key
 DB_DATABASE=backend
 DB_USERNAME=root
 DB_PASSWORD=
